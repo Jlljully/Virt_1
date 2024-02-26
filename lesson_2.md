@@ -41,11 +41,11 @@ Push  - конфигурация отправляется центральным
 
 ### Ответ
 
-![Скрин](https://github.com/Jlljully/Virt_2/blob/main/Screenshot_1.png "1")  
+![Скрин](https://github.com/Jlljully/Virtualization/blob/main/files/lesson_2/Screenshot_1.png "1")  
   
-![Скрин](https://github.com/Jlljully/Virt_2/blob/main/Screenshot_2.png "2")  
+![Скрин](https://github.com/Jlljully/Virtualization/blob/main/files/lesson_2/Screenshot_2.png "2")  
 
-![Скрин](https://github.com/Jlljully/Virt_2/blob/main/Screenshot_3.png "3")  
+![Скрин](https://github.com/Jlljully/Virtualization/blob/main/files/lesson_2/Screenshot_3.png "3")  
 
 ## Задача 4 
 
@@ -72,10 +72,10 @@ Error: The requested URL returned error: 404:
 
 ### Ответ
 
-![Скрин](https://github.com/Jlljully/Virt_2/blob/main/Screenshot_4.png "4")  
+![Скрин](https://github.com/Jlljully/Virtualization/blob/main/files/lesson_2/Screenshot_4.png "4")  
 
-![Скрин](https://github.com/Jlljully/Virt_2/blob/main/Screenshot_5.png "5")  
+![Скрин](https://github.com/Jlljully/Virtualization/blob/main/files/lesson_2/Screenshot_5.png "5")  
 
 Вторую часть пришлось выполнять на виртуалбоксе на убунте, поднятой на виртуалбоксе на виндоус из-за неработающего на виндоус ансибла:  
 
-![Скрин](https://github.com/Jlljully/Virt_2/blob/main/Screenshot_7.png "5")
+![Скрин](https://github.com/Jlljully/Virtualization/blob/main/files/lesson_2/Screenshot_7.png "5")
