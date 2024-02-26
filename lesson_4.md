@@ -9,13 +9,13 @@
 
 ### Ответ
 
-![Скрин](https://github.com/Jlljully/Virt_4/blob/main/Screenshot_1.png "пакер")
+![Скрин](https://github.com/Jlljully/Virtualization/blob/main/files/lesson_4/Screenshot_1.png "пакер")
 
-![Скрин](https://github.com/Jlljully/Virt_4/blob/main/Screenshot_2.png "пакер")
+![Скрин](https://github.com/Jlljully/Virtualization/blob/main/files/lesson_4/Screenshot_2.png "пакер")
 
 Переделала на центос
 
-![Скрин](https://github.com/Jlljully/Virt_4/blob/main/Untitled14.png "пакер") 
+![Скрин](https://github.com/Jlljully/Virtualization/blob/main/files/lesson_4/Untitled14.png "пакер") 
 
 
 ## Задача 2
@@ -32,13 +32,13 @@
 
 Созданная вручную:  
 
-![Скрин](https://github.com/Jlljully/Virt_4/blob/main/Untitled8.png "вм")  
+![Скрин](https://github.com/Jlljully/Virtualization/blob/main/files/lesson_4/Untitled8.png "вм")  
 
 Созданная терраформом:  
 
-![Скрин](https://github.com/Jlljully/Virt_4/blob/main/Untitled9.png "вм") 
+![Скрин](https://github.com/Jlljully/Virtualization/blob/main/files/lesson_4/Untitled9.png "вм") 
 
-![Скрин](https://github.com/Jlljully/Virt_4/blob/main/Untitled10.png "вм") 
+![Скрин](https://github.com/Jlljully/Virtualization/blob/main/files/lesson_4/Untitled10.png "вм") 
 
 ## Задача 3
 
@@ -49,9 +49,9 @@
 
 ### Ответ
 
-![Скрин](https://github.com/Jlljully/Virt_4/blob/main/Untitled11.png "ansible") 
+![Скрин](https://github.com/Jlljully/Virtualization/blob/main/files/lesson_4/Untitled11.png "ansible") 
 
-![Скрин](https://github.com/Jlljully/Virt_4/blob/main/Untitled12.png "ansible") 
+![Скрин](https://github.com/Jlljully/Virtualization/blob/main/files/lesson_4/Untitled12.png "ansible") 
 
 
 ## Задача 4
@@ -68,7 +68,7 @@
 
 ### Ответ
 
-![Скрин](https://github.com/Jlljully/Virt_4/blob/main/Untitled13.png "графана") 
+![Скрин](https://github.com/Jlljully/Virtualization/blob/main/files/lesson_4/Untitled13.png "графана") 
 
 ## Задача 5 (*)
 
