@@ -31,9 +31,9 @@ docker node ls
 
 ### Ответ
 
-![Скрин](https://github.com/Jlljully/Virt_5/blob/main/Untitled.png "1")
+![Скрин](https://github.com/Jlljully/Virtualization/blob/main/files/lesson_5/Untitled.png "1")
 
-![Скрин](https://github.com/Jlljully/Virt_5/blob/main/Untitled2.png "1")
+![Скрин](https://github.com/Jlljully/Virtualization/blob/main/files/lesson_5/Untitled2.png "1")
 
 ## Задача 3
 
@@ -46,11 +46,11 @@ docker service ls
 
 ### Ответ
 
-![Скрин](https://github.com/Jlljully/Virt_5/blob/main/Untitled3.png "1")
+![Скрин](https://github.com/Jlljully/Virtualization/blob/main/files/lesson_5/Untitled3.png "1")
 
-![Скрин](https://github.com/Jlljully/Virt_5/blob/main/Untitled5.png "1")
+![Скрин](https://github.com/Jlljully/Virtualization/blob/main/files/lesson_5/Untitled5.png "1")
 
-![Скрин](https://github.com/Jlljully/Virt_5/blob/main/Untitled6.png "1")
+![Скрин](https://github.com/Jlljully/Virtualization/blob/main/files/lesson_5/Untitled6.png "1")
 
 ## Задача 4 (*)
 
@@ -64,6 +64,6 @@ docker swarm update --autolock=true
 
 После перезагрузки ноды требуется разблокировать, чтоб добавить обратно
 
-![Скрин](https://github.com/Jlljully/Virt_5/blob/main/Untitled4.png "1")
+![Скрин](https://github.com/Jlljully/Virtualization/blob/main/files/lesson_5/Untitled4.png "1")
 
-![Скрин](https://github.com/Jlljully/Virt_5/blob/main/Untitled7.png "1")
+![Скрин](https://github.com/Jlljully/Virtualization/blob/main/files/lesson_5/Untitled7.png "1")
